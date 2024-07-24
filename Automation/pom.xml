@@ -45,7 +45,7 @@
 				<version>3.0.0-M5</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>C:\Users\lenka_suresh\eclipse-workspace\jan31thfolder\windowhandle\src\test\resources\NewFile.xml</suiteXmlFile>
+						<suiteXmlFile>testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
